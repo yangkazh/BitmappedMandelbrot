@@ -1,4 +1,3 @@
 # BitmappedMandelbrot
 
-### Demo
 ![](demo.png)
